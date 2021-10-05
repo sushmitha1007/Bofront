@@ -1,0 +1,127 @@
+03/07/2021 13:05:26 'data'
+03/07/2021 13:07:56 'data'
+03/07/2021 13:10:42 'data'
+03/07/2021 13:11:35 'Response' object is not subscriptable
+03/07/2021 13:16:14 'data'
+03/07/2021 13:16:53 'data'
+03/07/2021 13:18:32 dictionary update sequence element #0 has length 1; 2 is required
+03/07/2021 13:19:19 dictionary update sequence element #0 has length 1; 2 is required
+03/07/2021 13:21:41 'Response' object is not subscriptable
+03/07/2021 13:22:52 'data'
+03/07/2021 13:27:41 'data'
+03/07/2021 13:28:20 'data'
+03/07/2021 13:29:10 'data'
+03/07/2021 13:30:27 the JSON object must be str, bytes or bytearray, not dict
+03/07/2021 13:32:25 malformed node or string: {'utterence': "get kissan jam'", 'language': 'en', 'zipcode': 48393, 'offset': 0, 'limit': 100}
+03/07/2021 13:32:51 malformed node or string: {'utterence': 'get kissanjam', 'language': 'en', 'zipcode': 48393, 'offset': 0, 'limit': 100}
+03/07/2021 13:33:46 'data'
+03/07/2021 13:34:41 eval() arg 1 must be a string, bytes or code object
+03/07/2021 13:35:20 'data'
+03/07/2021 13:37:56 'data'
+03/07/2021 13:38:49 'data'
+03/07/2021 13:42:56 'data'
+03/07/2021 13:43:42 'data'
+03/07/2021 14:05:05 'data'
+07/07/2021 12:35:38 'slots'
+07/07/2021 12:37:19 'slots'
+07/07/2021 12:56:43 'products'
+07/07/2021 12:57:45 'products'
+07/07/2021 12:59:48 'name'
+07/07/2021 13:00:41 'name'
+07/07/2021 13:02:49 'name'
+23/07/2021 10:53:22 name 'item' is not defined
+23/07/2021 14:51:08 can only concatenate str (not "NoneType") to str
+23/07/2021 15:50:47 'products'
+23/07/2021 16:15:20 'products'
+23/07/2021 16:17:58 'products'
+23/07/2021 16:18:26 'products'
+26/07/2021 11:05:30 local variable 'item' referenced before assignment
+26/07/2021 11:07:06 local variable 'quantity' referenced before assignment
+26/07/2021 11:58:37 'products'
+26/07/2021 11:59:40 'products'
+26/07/2021 17:28:05 get_response() missing 1 required positional argument: 'quantity'
+02/08/2021 11:48:10 'products'
+02/08/2021 12:07:46 'products'
+02/08/2021 12:26:03 'products'
+02/08/2021 12:41:25 'products'
+02/08/2021 12:44:39 'products'
+02/08/2021 12:48:15 'products'
+02/08/2021 14:23:44 'products'
+04/08/2021 16:16:31 'item'
+04/08/2021 16:17:42 'item'
+04/08/2021 16:19:26 'item'
+04/08/2021 16:20:56 'item'
+04/08/2021 19:48:19 'products'
+05/08/2021 16:44:15 'products'
+06/08/2021 10:50:25 'products'
+09/08/2021 14:59:34 'products'
+10/08/2021 14:30:43 'products'
+10/08/2021 14:32:05 'products'
+10/08/2021 14:34:09 'products'
+10/08/2021 14:34:21 'products'
+10/08/2021 14:35:49 'products'
+10/08/2021 14:36:24 'products'
+26/08/2021 14:01:02 error while requesting ekirana server 'products'
+26/08/2021 14:01:03 error while requesting ekirana server 'products'
+26/08/2021 14:18:01 'tracker'
+26/08/2021 14:18:28 'tracker'
+26/08/2021 14:24:43 'tracker'
+26/08/2021 14:24:44 'tracker'
+26/08/2021 14:24:44 'tracker'
+26/08/2021 14:24:45 'tracker'
+26/08/2021 14:24:51 'tracker'
+26/08/2021 14:24:51 'tracker'
+26/08/2021 14:24:51 'tracker'
+26/08/2021 14:24:52 'tracker'
+26/08/2021 14:25:20 'tracker'
+26/08/2021 14:25:20 'tracker'
+26/08/2021 14:25:26 'tracker'
+26/08/2021 14:25:26 'tracker'
+26/08/2021 14:28:30 'tracker'
+26/08/2021 14:29:07 'tracker'
+26/08/2021 14:29:09 'tracker'
+26/08/2021 14:29:15 'tracker'
+26/08/2021 14:29:16 'tracker'
+26/08/2021 14:47:41 name 'hello' is not defined
+26/08/2021 14:47:42 name 'hello' is not defined
+26/08/2021 14:47:48 name 'hello' is not defined
+26/08/2021 14:47:49 name 'hello' is not defined
+26/08/2021 16:42:35 error while requesting ekirana server 'products'
+26/08/2021 16:43:00 error while requesting ekirana server 'products'
+26/08/2021 17:00:14 'tracker'
+26/08/2021 17:00:32 'tracker'
+26/08/2021 17:00:37 'tracker'
+26/08/2021 17:00:38 'tracker'
+26/08/2021 17:00:38 'tracker'
+26/08/2021 17:00:38 'tracker'
+26/08/2021 17:00:39 'tracker'
+26/08/2021 17:00:44 'tracker'
+26/08/2021 17:00:44 'tracker'
+26/08/2021 17:01:16 'tracker'
+26/08/2021 17:01:17 'tracker'
+26/08/2021 17:01:22 'tracker'
+26/08/2021 17:01:23 'tracker'
+26/08/2021 17:06:09 HTTPConnectionPool(host='localhost', port=5005): Max retries exceeded with url: /webhooks/rest/webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3D48B6F48>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+26/08/2021 17:06:14 HTTPConnectionPool(host='localhost', port=5005): Max retries exceeded with url: /webhooks/rest/webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3D494DD88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+26/08/2021 17:06:20 HTTPConnectionPool(host='localhost', port=5005): Max retries exceeded with url: /webhooks/rest/webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3D494B688>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+26/08/2021 17:06:20 HTTPConnectionPool(host='localhost', port=5005): Max retries exceeded with url: /webhooks/rest/webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3D4949B88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+26/08/2021 17:08:52 HTTPConnectionPool(host='localhost', port=5005): Max retries exceeded with url: /webhooks/rest/webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C9762C81C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+26/08/2021 17:08:53 'text'
+26/08/2021 17:08:59 'text'
+26/08/2021 17:08:59 'text'
+26/08/2021 17:09:54 string indices must be integers
+26/08/2021 17:09:55 'text'
+26/08/2021 17:10:01 'text'
+26/08/2021 17:10:01 'text'
+26/08/2021 17:10:57 string indices must be integers
+26/08/2021 17:10:58 'text'
+26/08/2021 17:11:04 'text'
+26/08/2021 17:11:04 'text'
+26/08/2021 17:12:00 string indices must be integers
+26/08/2021 17:12:01 'text'
+26/08/2021 17:12:06 'text'
+26/08/2021 17:12:07 'text'
+26/08/2021 17:13:20 string indices must be integers
+26/08/2021 17:13:27 'text'
+26/08/2021 17:13:27 'text'
+27/08/2021 10:41:45 error while requesting ekirana server 'products'

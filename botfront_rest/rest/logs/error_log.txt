@@ -1,0 +1,38 @@
+03/07/2021 13:05:26 'data'
+03/07/2021 13:07:56 'data'
+03/07/2021 13:10:42 'data'
+03/07/2021 13:11:35 'Response' object is not subscriptable
+03/07/2021 13:16:14 'data'
+03/07/2021 13:16:53 'data'
+03/07/2021 13:18:32 dictionary update sequence element #0 has length 1; 2 is required
+03/07/2021 13:19:19 dictionary update sequence element #0 has length 1; 2 is required
+03/07/2021 13:21:41 'Response' object is not subscriptable
+03/07/2021 13:22:52 'data'
+03/07/2021 13:27:41 'data'
+03/07/2021 13:28:20 'data'
+03/07/2021 13:29:10 'data'
+03/07/2021 13:30:27 the JSON object must be str, bytes or bytearray, not dict
+03/07/2021 13:32:25 malformed node or string: {'utterence': "get kissan jam'", 'language': 'en', 'zipcode': 48393, 'offset': 0, 'limit': 100}
+03/07/2021 13:32:51 malformed node or string: {'utterence': 'get kissanjam', 'language': 'en', 'zipcode': 48393, 'offset': 0, 'limit': 100}
+03/07/2021 13:33:46 'data'
+03/07/2021 13:34:41 eval() arg 1 must be a string, bytes or code object
+03/07/2021 13:35:20 'data'
+03/07/2021 13:37:56 'data'
+03/07/2021 13:38:49 'data'
+03/07/2021 13:42:56 'data'
+03/07/2021 13:43:42 'data'
+03/07/2021 14:05:05 'data'
+07/07/2021 12:35:38 'slots'
+07/07/2021 12:37:19 'slots'
+07/07/2021 12:56:43 'products'
+07/07/2021 12:57:45 'products'
+07/07/2021 12:59:48 'name'
+07/07/2021 13:00:41 'name'
+07/07/2021 13:02:49 'name'
+23/07/2021 10:53:22 name 'item' is not defined
+23/07/2021 14:51:08 can only concatenate str (not "NoneType") to str
+23/07/2021 15:50:47 'products'
+23/07/2021 16:15:20 'products'
+23/07/2021 16:17:58 'products'
+23/07/2021 16:18:26 'products'
+26/07/2021 17:47:35 module 'config.constants' has no attribute 'ASK_QUANTITY'

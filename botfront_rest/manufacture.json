@@ -1,0 +1,49 @@
+{
+    "emails":[{
+    "manufacture":"Continental",
+    "email":" "
+},
+{
+    "manufacture":"Dematic",
+    "email":"sales@dcscenter.com"
+},
+{
+    "manufacture":"Leeson",
+    "email":"jeffk@directdrives.com,service@loveshaw.com,griffin@neutechpackaging.com"
+    
+},
+{
+    "manufacture":"Emerson",
+    "email":"Newark Quote@newark.com,sales@dosupply.com"
+    
+},
+{
+    "manufacture":"Digi-Key",
+    "email":"sales@digikey.com"
+    
+},
+{
+    "manufacture":"Acme Tools",
+    "email":"support@acmetools.com"
+},
+{
+    "manufacture":"Baldor",
+    "email":" "
+    
+},
+{
+    "manufacture":"Marathon Motors",
+    "email":"sales@marathon-motors.com,jmclaren@spinaelectric.com"
+    
+},
+{
+    "manufacture":"Parker",
+    "email":"rwilliams@erpc.com"
+    
+},
+{
+    "manufacture":"SEW Eurodrive",
+    "email":"knowak@mptdrives.com,Wynparts  sales@wynparts.com"
+    
+}
+]}

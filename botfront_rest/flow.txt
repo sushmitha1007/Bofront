@@ -1,0 +1,6 @@
+1. greet user with first_name, get issue type and create a universal slot for it
+2. ask the issue(query/description) with the issue_type(OMS/MRO)
+3. ask if images are required to be uploaded, with buttons (YES/NO)
+3. affirm - display attachment icon and store the images to s3 and send post request for them, deny - proceed with step5
+4. if images uploaded  return user with "x image(s) uploaded, image_urls".
+5. create jira issue(user email, query, images, issue type) and send email(support and user)
